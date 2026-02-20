@@ -1,17 +1,25 @@
-# Password Generator (Python)
+---
 
-This project is a GUI-based Password Generator built using Python and Tkinter.
+## 🔹 For Secure Password Generator
 
-## Features
-- Custom password length
-- Uppercase, lowercase, numbers, symbols options
-- Password strength indicator
-- Copy to clipboard option
+```markdown
+# 🔐 Secure Password Generator
 
-## How to Run
-1. Install Python
-2. Run:
-   python password_generator.py
+## 📌 Internship
+Oasis Infobyte - Python Programming Internship (OIBSIP)
 
-## Author
-sreejith.m
+## 🎯 Objective
+To create a secure password generator using Python that generates strong random passwords based on user-defined length.
+
+## 🛠 Tools & Technologies Used
+- Python
+- Random module
+- VS Code
+
+## 🚀 Features
+- User-defined password length
+- Includes uppercase, lowercase, numbers, and symbols
+- Generates strong secure password
+
+## 📊 Outcome
+Improved understanding of random module, string manipulation, and security-focused programming concepts.
